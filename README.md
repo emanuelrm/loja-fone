@@ -23,3 +23,9 @@ Usamos para definir um menu de navegacao
 
 `<header>`  
 Usamos para definir o cabecalho
+
+# CSS
+
+E uma linguagem de estilo, isso quer dizer que ela tem as seguintes responsabilidades:
+
+- Visual
